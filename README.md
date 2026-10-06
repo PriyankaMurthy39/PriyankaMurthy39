@@ -1,12 +1,4 @@
-## Hi, I'm Priyanka 👋
+## 👋 Hi, I'm Priyanka!
 
-🎓 AI & Data Science student  
-🐍 Python | 🧠 DSA | 📊 Machine Learning  
-📚 Learning by building projects and solving problems  
-
-💻 What I’m working on:
-- Python basic projects
-- LeetCode problem solving
-- Machine Learning 
-
-🚀 Growing my skills step by step.
+Final-year **AI & Data Science student** passionate about **Machine Learning, Data Science, and Software Development**.
+I enjoy learning new technologies, solving problems, and building practical projects. 🚀
